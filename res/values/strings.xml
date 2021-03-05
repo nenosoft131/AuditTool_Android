@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AuditTool</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_safety">Safety Audits made Simple</string>
+    <string name="login">Login</string>
+    <string name="pasword">Password</string>
+    <string name="company_details">Company Details</string>
+    <string name="current_WHS">Current WHS Arrangements</string>
+    <string name="planning">Planning</string>
+    <string name="implementation">Implementation</string>
+    <string name="measurmentandev">Measurment and Evaluation</string>
+    <string name="recodsmanagment">Records Management</string>
+    <string name="WHSMS_audit">WHSMS Audit</string>
+    <string name="Mangment_review">Management Review</string>
+    <string name="top_main">Safety Audit</string>
+    <string name="det_name">Name</string>
+    <string name="complaint">Compliant</string>
+    <string name="risk_rating">Your Safety Risk Rating</string>
+    <string name="evidence">Evidence</string>
+    <string name="det_add">Address</string>
+    <string name="agreecompl_date">Agreed Completion Date</string>
+    <string name="det_tel">Telephone Number</string>
+    <string name="det_num">Number of Employees</string>
+    <string name="det_ind">Industry and Nature of Work</string>
+    <string name="det_con">Main Contact</string>
+    <string name="det_email">Email</string>
+    <string name="current_top">Current WHS Arrangements</string>
+    <string name="policy">Policy</string>
+    <string name="current1">WHS Training Plans/Programs</string>
+    <string name="current2">Work Health Safety Advisor</string>
+    <string name="current3">Work Health and Safety Representatives</string>
+    <string name="current4">Emergency  Plans/Procedures</string>
+    <string name="current5">Incident Management</string>
+    <string name="current6">Documented Risk Assessments</string>
+    <string name="current7">Risk Management Procedure</string>
+    <string name="current8">WHS Training Plans/Programs</string>
+    <string name="app_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxGYgOnGVdTZSNWW8Dl4ekg0SadyW4erh0Gl9EGjHiQhYJHoR+SIZzp+YfrihIwYC+qPoI3ZnPY8wW7kPdE4yiJ1aLlnF5fQXyLbZ3lfFFt5/vbEaUwk5DZC7khGPAq+5hz5P7DKIeJgN/qcvHSqPDw+YDZF+Hf6vS75xKnDehexEs/L/dbIXZzXHBdc3jZ95vCQz9aeYUy47itcx+V7yZUACxtKqQKyD0Qfe0PkklLOsCBoLz7RS9KwKfPtuBcJxXQ6VEyR4iSDNnIl9+T1ULU7D6wew4YgBLw83ytARVbMQ3ufM3SMIiNDsS3e8o5+FPh0uq8jUiS3EFsVmsihO8QIDAQABMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxGYgOnGVdTZSNWW8Dl4ekg0SadyW4erh0Gl9EGjHiQhYJHoR+SIZzp+YfrihIwYC+qPoI3ZnPY8wW7kPdE4yiJ1aLlnF5fQXyLbZ3lfFFt5/vbEaUwk5DZC7khGPAq+5hz5P7DKIeJgN/qcvHSqPDw+YDZF+Hf6vS75xKnDehexEs/L/dbIXZzXHBdc3jZ95vCQz9aeYUy47itcx+V7yZUACxtKqQKyD0Qfe0PkklLOsCBoLz7RS9KwKfPtuBcJxXQ6VEyR4iSDNnIl9+T1ULU7D6wew4YgBLw83ytARVbMQ3ufM3SMIiNDsS3e8o5+FPh0uq8jUiS3EFsVmsihO8QIDAQAB</string>
+
+    <string-array name="records_management">
+        <item>Does the facility have an adequate range of Work Health and Safety records?</item>
+    </string-array>
+    <string-array name="whsms_audit">
+        <item>Are there any safety or quality auditing systems in place within the department?</item>
+    </string-array>
+    <string-array name="management_review">
+        <item>Is there evidence that management review Work Health and Safety management to ensure suitability, adequacy and effectiveness?</item>
+        <item>Is the review of the Work Health and Safety Management System evaluated in regards to organisational change and its commitment to continual improvement?</item>
+    </string-array>
+    <string-array name="policy_questions">
+        <item>Is an up to date copy of the written (WHS) Policy available at the location?</item>
+        <item>Is the policy communicated to all staff/contractors/visitors within the organisation?</item>
+        <item>Are there relevant organisational or other policies appropriate to the hazards and risks associated with the activities, products and/or services?</item>
+        <item>Is there a written statement describing arrangements for managing health and safety in the organisation?</item>
+    </string-array>
+    <string-array name="policy_rationale">
+        <item>It is good practice to display a copy of the Work Health and Safety Policy at prominent locations throughout the organisation.</item>
+        <item></item>
+        <item>If the organisation has specific hazards and risks that arise from the work activities, there should be policies and procedures in place for these.</item>
+        <item>Good practice is to have a written statement outlining devolved responsibilities for health and safety.  This should include organisational structures, processes for ensuring management control and named persons accountable for elements of these processes.</item>
+    </string-array>
+    <string-array name="planning_questions">
+        <item>Have the key safety hazards/risks that may be encountered with all activities, products and/or services been identified</item>
+        <item>Are all of these hazards/risks evaluated for their impact on the health and safety of persons? </item>
+        <item>Do purchasing procedures (for goods, services or contractors) include health and safety as a weighted consideration based on risk?</item>
+        <item>Are there arrangements for obtaining up to date work health and safety information on hazards, risks, and preventative measures?</item>
+        <item>Is there a procedure to ensure staff are kept up to date with relevant work health and safety legislation?</item>
+        <item>Does the area establish, implement and maintain documented work health and safety objectives and targets?</item>
+        <item>Have Work Health and Safety objectives and targets been communicated to all relevant persons?</item>
+        <item>Are the targets linked to other relevant plans?</item>
+        <item>Are priorities based on the outcome of risk evaluations?</item>
+        <item>Are objectives periodically reviewed?</item>
+        <item>Is there an annual Work Health and Safety Plan for the organisation?</item>
+        <item>Are time frames and responsibility for achieving the Work Health and Safety plan established?</item>
+        <item>How and when is the Work Health and Safety plan reviewed?</item>
+        <item>Have the key safety hazards/risks that may be encountered with all activities, products and/or services been identified?</item>
+        <item>Are all of these hazards/risks evaluated for their impact on the work health and safety of persons?</item>
+    </string-array>
+    <string-array name="planning_rationale">
+        <item>How are risks identified and prioritised? What are the highest risk activities or processes undertaken by the organisation? I.e. manual handling, fieldwork, chemical use, radiation, biological hazards etc.Is there a plan to identify any future risks?</item>
+        <item>The risks should be evaluated to give order of priority.  Risk rating systems should follow appropriate organisational methodology.Is there a plan to identify any future risks?</item>
+        <item>When purchasing goods or services, work health and safety should be a deciding factor, based upon the risk.</item>
+        <item>Do you have means of getting Work Health and Safety information specific to your organisation?</item>
+        <item>What arrangements do you have for disseminating information within the work area?</item>
+        <item>Objectives should be set to make improvements (particularly regarding risk evaluations, inspections, workplace precautions, risk control systems, or management arrangements</item>
+        <item></item>
+        <item>For example, Targets linked to strategic plans</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="implementation_questions">
+        <item>Do you allocate resources to address work health and safety needs?</item>
+        <item>Have roles, responsibilities and authorities been defined, documented and communicated to all relevant personnel to ensure effective devolved Work Health and Safety management?</item>
+        <item> Has a senior manager been nominated to co-ordinate and monitor policy implementation?</item>
+        <item>Are persons familiar with their defined Work Health and Safety management roles and responsibilities?</item>
+        <item> Are persons with devolved responsibilities appraised on their work health and safety performance?</item>
+        <item>Do you have an appointed Workplace Health and Safety Representative?</item>
+        <item>Have the required competences been identified and recorded for all tasks and positions which may impact on Work Health and Safety in the unit?</item>
+        <item>Is there a process for ensuring that personnel performing tasks are competent, considering their education, training and/or experience, and the work context?</item>
+        <item> Do all new employees and contractors complete a safety induction?</item>
+        <item>Are training needs related to Work Health and Safety identified?</item>
+        <item>Are there procedures to ensure that all personnel receive appropriate training?</item>
+        <item>Are training needs related to Work Health and Safety identified?</item>
+        <item>Are there documented procedures for staff and contractor consultation in work health and safety issues?</item>
+        <item>Are there records demonstrating consultation?</item>
+        <item> Are there arrangements to communicate work health and safety information?</item>
+        <item>Are there procedures to show how hazards, incidents and injuries will be reported?</item>
+        <item> Is there a method to ensure safety related documents and amendments can be located, and are approved for adequacy by authorised personnel before issue?</item>
+        <item>Are documents adequately distributed to ensure ready access to personnel who play an essential role in Work Health and Safety management?</item>
+        <item> Are documents:  legible, dated (with dates of revision), readily identifiable, maintained in an orderly manner and retained for a specified period?</item>
+        <item> Are there ongoing arrangements for identifying hazards?</item>
+        <item>  Are regular workplace inspections carried out?</item>
+        <item> Are there ongoing arrangements for reporting hazards?</item>
+        <item>Is there a written procedure on hazard identification and risk assessment?</item>
+        <item>Are all new processes, plant and equipment or activities risk assessed prior to purchase or tender?</item>
+        <item>Have risk assessments been carried out on the hazards identified?</item>
+        <item> Is the information derived from risk assessments used to establish risk control measures?</item>
+        <item>Have the risks identified been set in order of priority?</item>
+        <item>Do decisions about risk control measures take account of the relevant legal requirements which establish minimum levels of risk prevention or control?</item>
+        <item>Are there arrangements for regularly reviewing risk assessments?</item>
+        <item>Are there procedures to respond to potential incidents, injuries and emergencies and to minimise risks and consequences from such situations?</item>
+        <item>Has overall responsibility been allocated for control of emergency situations and has this been communicated?</item>
+        <item>Are emergency response procedures periodically tested, reviewed and revised?</item>
+        <item>Are emergency preparedness and response procedures reviewed and revised after the occurrence of incidents, injuries or emergency situations?</item>
+        <item>Are the relevant emergency preparedness and response procedures communicated to staff, contractors and others as required?</item>
+        <item>Are emergency preparedness and response procedures reviewed and revised after the occurrence of incidents, injuries or emergency situations?</item>
+    </string-array>
+    <string-array name="measurment_questions">
+        <item>Is there an inspection plan and does it identify the frequency of inspections?</item>
+        <item>Are the relevant emergency preparedness and response procedures communicated to staff, contractors and others as required?</item>
+        <item>Are records kept for each inspection with details of both positive and negative findings?</item>
+        <item> Are there procedures to determine what must be monitored in relation to Work Health and Safety and how this will be achieved?</item>
+        <item>If staff require health monitoring, is this being carried out?</item>
+        <item>Are there procedures identifying who has responsibility and authority for investigating incidents?</item>
+        <item>Are the principles of safety risk management used when investigating incidents?</item>
+        <item>Are there procedures identifying who has responsibility and authority for initiating and completing both corrective and preventative action?</item>
+        <item>Are changes in the documented procedures resulting from corrective and preventative action to avoid repetition of problems and deficiencies implemented and recorded?</item>
+        <item>Are there any changes to the Work Health and Safety Management System resulting from corrective actions? </item>
+        <item>Does the facility have an adequate range of Work Health and Safety records?</item>
+        <item>Are there any safety or quality auditing systems in place within the department?</item>
+        <item>  Is there evidence that management review Work Health and Safety management to ensure suitability, adequacy and effectiveness?</item>
+        <item>Is the review of the Work Health and Safety Management System evaluated in regards to organisational change and its commitment to continual improvement?</item>
+    </string-array>
+
+</resources>
